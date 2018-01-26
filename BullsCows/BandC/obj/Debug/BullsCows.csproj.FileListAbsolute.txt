@@ -1,0 +1,7 @@
+C:\Users\narek\Documents\Visual Studio 2017\Projects\BullsCows\bin\Debug\BullsCows.exe.config
+C:\Users\narek\Documents\Visual Studio 2017\Projects\BullsCows\bin\Debug\BullsCows.exe
+C:\Users\narek\Documents\Visual Studio 2017\Projects\BullsCows\bin\Debug\BullsCows.pdb
+C:\Users\narek\Documents\Visual Studio 2017\Projects\BullsCows\obj\Debug\BullsCows.csprojResolveAssemblyReference.cache
+C:\Users\narek\Documents\Visual Studio 2017\Projects\BullsCows\obj\Debug\BullsCows.csproj.CoreCompileInputs.cache
+C:\Users\narek\Documents\Visual Studio 2017\Projects\BullsCows\obj\Debug\BullsCows.exe
+C:\Users\narek\Documents\Visual Studio 2017\Projects\BullsCows\obj\Debug\BullsCows.pdb
